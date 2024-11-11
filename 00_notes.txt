@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=gTK5rNhWJyA&list=PLRY-AYJzifh1p1YinaFw-VIqYYsPyRYi4
+
+
+Objective :-
+Vrina stores wants to create an annual sales report for 2022. 
+So that, Vrinda can understand the customer and grow more sales in 2023
+
+Steps : 
+1. View data at a high level, to know what we have and whether it is relevant for our objective or not.
+
+2. Data cleaning
+- unique id
+- no duplicates
+- consistent data 
+
+3. Data Processing
+- Find the calculation.
+- Process the data to find your objective.
+
+- You can add the column and data as per your need, by extracting the data from the available.
+- After we get the data we wanted we can paste it as the values so the function should not process everytime.
